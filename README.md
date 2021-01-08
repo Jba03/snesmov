@@ -6,7 +6,7 @@ Supported formats:
 
         .lsmv (lsnes, reading + writing)
         .bk2  (BizHawk, reading)
-        .smv  (Snes9x 1.43, reading)
+        .smv  (Snes9x, reading)
 
 
 Movies that use other controllers than the standard *12* or *[16-button]* gamepad, are currently not supported.

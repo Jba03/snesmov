@@ -11,7 +11,7 @@ Supported formats:
 
 Movies that use other controllers than the standard *12* or *[16-button]* gamepad, are currently not supported.
 
-## syncing movies
+## Syncing movies
 When converting from *.bk2* to *.lsmv*, remove one initial frame.  
 ~~When converting from *.lsmv* to *.bk2*, add one initial blank frame.~~
 
@@ -20,7 +20,7 @@ There is a small chance that movies converted between these two formats will des
 Converted Snes9x movie files desync more often than ones produced in emulators that use the bsnes or higan cores, due to emulation inaccuracy. Desyncs seem to occur most commonly during transitions, such as fading-effects or level changes.
 
 
-### dependencies
+### Dependencies
     libzip: https://libzip.org
 
 *Todo: custom zip library?*
